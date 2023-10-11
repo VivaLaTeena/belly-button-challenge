@@ -16,7 +16,7 @@ The assignment also encouraged deploying the web application to a free static pa
 
 ## How to Use the Application
 
-1. Visit the interactive dashboard: file:///Users/titi/Desktop/belly-button-challenge-main/index.html 
+1. Visit the interactive dashboard: file:///Users/titi/Desktop/belly-button-challenge-main/index.html , https://github.com/VivaLaTeena/belly-button-challenge.git
 2. Select an individual's ID from the dropdown menu to explore their microbiome data.
 3. View the top 10 OTUs in a horizontal bar chart.
 4. Examine the bubble chart to understand the distribution of OTUs.
@@ -41,7 +41,7 @@ This assignment was successfully completed with the following key elements:
 
 ## GitHub Repository
 
-For the source code and project files, please visit the GitHub repository: 
+For the source code and project files, please visit the GitHub repository: https://github.com/VivaLaTeena/belly-button-challenge.git
 
 ## Future Enhancements
 
